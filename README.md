@@ -2,7 +2,8 @@
 
 KT AIVLE School 4기 미니프로젝트 7차 : 수화 번역기 웹 사이트<br>
 -> 수어를 알파벳으로 번역해주는 AI 기반 웹 서비스<br><br>
-**사용 기술 :** Django, MLFLOW, ChatGPT API, AWS, Anaconda 
+**전체 사용 기술 :** Django, MLFLOW, ChatGPT API, AWS, Anaconda 
+**프론트 사용 기술:** HTML, CSS, JavaScript
 
 
 
